@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<title>Aswath's View Official</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 120px;background: #222;}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+</style>
+<body class="w3-black">
+​
+<!-- Icon Bar (Sidebar - hidden on small screens) -->
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+<!-- Avatar image in top left corner -->
+<img src="https://i.ibb.co/YfWrsXK/5-EA2661-A-3-A23-41-C3-AC0-F-4-F6484132476.jpg" alt="5-EA2661-A-3-A23-41-C3-AC0-F-4-F6484132476" border="0" style="width:100%">
+  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <p>HOME</p>
+  </a>
+  <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-user w3-xxlarge"></i>
+    <p>ABOUT</p>
+  </a>
+  <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-eye w3-xxlarge"></i>
+    <p>VIDEOS</p>
+</a>
+  <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-envelope w3-xxlarge"></i>
+    <p>CONTACT</p>
+  </a>
+</nav>
+<!-- Navbar on small screens (Hidden on medium and large screens) -->
+<div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
+  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+    <a href="#" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
+    <a href="#about" class="w3-bar-item w3-button" style="width:25% !important">ABOUT</a>
+    <a href="#photos" class="w3-bar-item w3-button" style="width:25% !important">VIDEOS</a>
+    <a href="#contact" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
+  </div>
+</div>
+<!-- Page Content -->
+<div class="w3-padding-large" id="main">
+  <!-- Header/Home -->
+  <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Aswath.</h1>
+    <p>Vlogger.</p>
+
+  </header>
+​<!-- About Section -->
+  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
+    <h2 class="w3-text-light-grey">How it began?</h2>
+    <hr style="width:200px" class="w3-opacity">
+    <p>In early 2017s, I made my first project, took a video of it and uploaded it in YouTube. Then I started uploading my videos one by one. Thank you everyone for helping me reach more than 100 subscribers. 
+    </p>
+
+ <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">10+</span><br>
+        Videos
+      </div>
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">100+</span><br>
+        Happy Subscribers
+      </div>
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">3000+</span><br>
+        Video Views
+      </div>
+<div class="w3-quarter w3-section">
+        <span class="w3-xlarge">100+</span><br>
+        Likes
+      </div>
+    </div>
+​
+
+<iframe style="width:180px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=achu08-21&marketplace=amazon&amp;region=IN&placement=B08TDJ5BVF&asins=B08TDJ5BVF&linkId=2b90e8240ecd7541e44aa1aa2c1ba023&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+<iframe style="width:180px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=achu08-21&marketplace=amazon&amp;region=IN&placement=B091G3FLL7&asins=B091G3FLL7&linkId=72ade1209f56254612bb5cf545ebab57&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+<iframe style="width:180px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=achu08-21&marketplace=amazon&amp;region=IN&placement=B09B611Q4R&asins=B09B611Q4R&linkId=1a56036b38a1b9d888a22f1753043afc&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+<iframe style="width:180px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=achu08-21&marketplace=amazon&amp;region=IN&placement=B08PS2KXJP&asins=B08PS2KXJP&linkId=c497ad968504947607ec4276d4e7e18a&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<br><br>
+ <!-- Testimonials -->
+    <h3 class="w3-padding-24 w3-text-light-grey">Reviews</h3>  
+    <img src="/w3images/bandmember.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Rohan.</span> India.</p>
+    <p>Your vidoes are my all time favourite.</p><br>
+    
+    <img src="/w3images/avatar_g2.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Rebecca.</span> USA.</p>
+    <p>Subtitles in your video helped me understand the content.</p>
+  <!-- End About Section -->
+  </div>
+<!-- Portfolio Section -->
+  <div class="w3-padding-64 w3-content" id="photos">
+    <h2 class="w3-text-light-grey">My Vidoes</h2>
+   
+​      <div><iframe width="560" height="315" src="https://www.youtube.com/embed/-iJoNhHqu3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+
+    <iframe frameborder="0" style="height:500px;width:99%;border:none;" src='https://forms.zohopublic.in/aswathvlogger/form/GiveawayNotificationSubscription/formperma/k49yav_xCe2zZcfDeicWnrxTRcdLrTxeGIV5Y7T3XWo'></iframe>
+    <!-- End photo grid -->
+    </div>
+  <!-- End Portfolio Section -->
+  </div>
+<!-- Contact Section -->
+  <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+    <h2 class="w3-text-light-grey">Contact Me</h2>
+    <hr style="width:200px" class="w3-opacity">
+​
+    <div class="w3-section">
+      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> India</p>
+      <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> In case of business queries, Phone: +91 9345586922</p>
+      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: aswathsview@gmail.com.com</p>
+    </div><br> 
+    <p>Let's get in touch. Send me a message to aswathsview@gmail.com</p>
+<!-- Footer -->
+  <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
+     <script type="text/javascript" language="javascript">
+      var aax_size='728x90';
+      var aax_pubname = 'achu08-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script><br><br>
+<i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-youtube w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i><br>
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCp0etgC0z7dyxOVkdKEvHuw" data-layout="full" data-count="hidden"></div>
+</script>
+<div>
+<a href="https://www.patreon.com/bePatron?u=63453905" data-patreon-widget-type="become-patron-buton">Become a member and recieve member only benefits!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></div>
+    <p class="w3-medium">Powered by <a href="https://m.youtube.com/c/Aswathsview" target="_blank" class="w3-hover-text-green">Aswath's View Official</a></p>
+  <!-- End footer -->
+  </footer>
+<!-- END PAGE CONTENT -->
+
+</div>
+</style>
+<div>
+<script type="text/javascript">
+(function(d, src, c) { var t=d.scripts[d.scripts.length - 1],s=d.createElement('script');s.id='la_x2s6df8d';s.async=true;s.src=src;s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs&&(rs!='complete')&&(rs!='loaded')){return;}c(this);};t.parentElement.insertBefore(s,t.nextSibling);})(document,
+'https://aswathsview.ladesk.com/scripts/track.js',
+function(e){ LiveAgent.createKbSearchWidget('i2gyym9d', e); });
+</script>
+</div>
+
+</body>
+</html>
